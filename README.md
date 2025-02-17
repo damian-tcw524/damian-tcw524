@@ -1,6 +1,6 @@
-# Damian
+# Damian Boruch
 
-This is my university github account. All of my public projects can be viewed here.
+This is my university github account, where you can view all of the cool projects i create.
 
 <!---
 damian-tcw524/damian-tcw524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
