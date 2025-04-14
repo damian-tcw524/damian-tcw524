@@ -1,6 +1,8 @@
 # Damian Boruch
 
-This is my university github account, where you can view all of the cool projects i create.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-tcw524&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=damian-tcw524&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/damian-tcw524/count.svg)
 
 <!---
 damian-tcw524/damian-tcw524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
