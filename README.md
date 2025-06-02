@@ -1,7 +1,10 @@
 # Damian Boruch
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-tcw524&theme=tokyonight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=damian-tcw524&show_icons=true&theme=tokyonight)
+
+### Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/damian-tcw524/count.svg)
 
 <!---
