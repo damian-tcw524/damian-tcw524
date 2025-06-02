@@ -1,15 +1,10 @@
 # Damian Boruch
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-tcw524&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my university github profile. This is my day to day account where i save all of my work to. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-tcw524&theme=tokyonight)
+![damian-tcw524's Streak](https://github-readme-streak-stats.herokuapp.com/?user=damian-tcw524&theme=tokyonight&hide_border=false)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=damian-tcw524&show_icons=true&theme=tokyonight)
+![damian-tcw524's Stats](https://github-readme-stats.vercel.app/api?username=damian-tcw524&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ### Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/damian-tcw524/count.svg)
-
-<!---
-damian-tcw524/damian-tcw524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
