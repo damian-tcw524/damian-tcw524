@@ -1,5 +1,7 @@
 # Damian Boruch
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-tcw524&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-tcw524&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=damian-tcw524&show_icons=true&theme=tokyonight)
